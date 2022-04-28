@@ -1,3 +1,9 @@
+Olá Mundo, Eu sou Marcos Vinícius
+
+<img src="https://i.ibb.co/QJZdmpv/XOsX.gif" width="100" height="100" />
+
+ 🌱Atualmente estou aprendendo JavaScript, Python
+
 <div align="center">
   <a href="https://github.com/MarcosViniciusF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosViniciusF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
