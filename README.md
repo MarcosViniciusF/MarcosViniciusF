@@ -20,8 +20,7 @@ Olá Mundo, Eu sou Marcos Vinícius
    ##
  
 <div> 
-  <a href="https://www.instagram.com/marcos_vi_freitas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatoMarcosViniciusF@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-vinicius-4a68a0233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Vinícius-539BF5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-barros-238686206/)](https://www.linkedin.com/in/marcos-vinicius-4a68a0233//) 
+ [![Gmail Badge](https://img.shields.io/badge/-contatoMarcosViniciusF@gmail.com-D64B3E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielfebarros@gmail.com)](mailto:contatoMarcosViniciusF@gmail.com)
 </div>
