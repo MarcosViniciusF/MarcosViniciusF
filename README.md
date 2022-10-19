@@ -21,6 +21,6 @@ Olá Mundo, Eu sou Marcos Vinícius
  
 <div> 
   
-  [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Vinícius-539BF5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-barros-238686206/)](https://www.linkedin.com/in/marcos-vinicius-4a68a0233//) 
+  [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Vinícius-539BF5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-barros-238686206/)](https://www.linkedin.com/in/marcos-vinicius-4a68a0233/) 
  [![Gmail Badge](https://img.shields.io/badge/-contatoMarcosViniciusF@gmail.com-D64B3E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielfebarros@gmail.com)](mailto:contatoMarcosViniciusF@gmail.com)
 </div>
